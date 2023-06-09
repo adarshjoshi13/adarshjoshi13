@@ -1,0 +1,4 @@
+- 👋 Hi, Adi this side
+- 👀 I’m interested in fashion and coding
+- 🌱 I’m currently learning front end development
+- 💞️ If you want to collab with me then DM
